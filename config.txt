@@ -1,0 +1,22 @@
+Gesamtstudentenanzahl: 10000
+Anzahl der Studenten auf die eine Toilette kommt: 200
+Anzahl der Studenten auf die ein Hörsaal kommt: 200
+Anzahl der Studenten auf die ein Seminarraum kommt: 100
+Anzahl der Studenten auf die ein Büro kommt: 50
+Faktor zur Bewertung der Position eines WC vertikal: -300
+Faktor zur Bewertung der Position eines WC horizontal: -1000
+Faktor zur Bewertung der Position eines Seminarraumes vertikal: -20
+Faktor zur Bewertung der Position eines Seminarraumes horizontal: 0
+Faktor zur Bewertung der Position eines Büros vertikal: -20
+Faktor zur Bewertung der Position eines Büros horizontal: 0
+Faktor zur Bewertung der Position eines Hörsaales vertikal: -400
+Faktor zur Bewertung der Position eines Hörsaales horizontal: -20
+Raumtiefe (Abstand Flur-Aussenfassade): 5
+Grundfläche eines Hörsaales: 100
+Grundfläche eines WC: 20
+Grundfläche eines Büros: 25
+Grundfläche eines Seminarraumes: 50
+Flurbreite: 5
+Raumhöhe pro Stockwerk: 3
+Maximale Flurlänge: 100
+Minamale Flurlänge: 25
